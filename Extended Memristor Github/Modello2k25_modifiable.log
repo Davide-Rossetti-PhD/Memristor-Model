@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Davide\Desktop\Extended Memristor Github\Modello2k25_modifiable.asc
+
+.OP point found by inspection.
+
+Date: Thu Sep 11 23:20:57 2025
+Total elapsed time: 1.289 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 50380
+traniter = 50380
+tranpoints = 25191
+accept = 25191
+rejected = 0
+matrix size = 3
+fillins = 0
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1:       5 opcodes  0.3/[0.3]/0.4
+Matrix Compiler2: off  [0.3]/0.4/0.3
+
