@@ -57,4 +57,3 @@ This workflow enables **automated fitting** of model parameters to experimental 
 - The calibrated model demonstrates **predictive accuracy** across unseen excitation waveforms and frequencies.  
 - Simulation vs. experimental I–V curves show strong alignment.  
 - The resulting parameter set provides physical insight into device behavior and supports neuromorphic and in-memory computing applications.
-<img width="5201" height="5615" alt="Train_Figure_08" src="https://github.com/user-attachments/assets/9f6ce4ed-d3d6-4551-9c00-1d3775d85602" />
