@@ -1,6 +1,9 @@
 # Extended Memristor Modeling and Machine Learning-Based Parameter Optimization
 
-This repository provides a **Python–LTSpice framework** for the calibration of memristor models using experimental data.  
+This repository provides a **Python–LTSpice framework** for the calibration of memristor models using experimental data. 
+
+### 📑 Publication
+This work is published in **Wiley - Advanced Electronic Materials**.
 
 ## 🚀 Overview
 Accurate modeling of memristive devices is essential for capturing **asymmetric, nonlinear, and history-dependent behaviors** observed in real devices.  
